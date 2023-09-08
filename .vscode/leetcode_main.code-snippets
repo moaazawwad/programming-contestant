@@ -1,0 +1,21 @@
+{
+  "main_snippet": {
+    "prefix": "leetcode",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "class Solution {",
+      " public:",
+      "  void sol() {}",
+      "};",
+      "",
+      "int main(int argc, char const *argv[]) {",
+      "  cout << Solution().sol();",
+      "",
+      "  return 0;",
+      "}"
+    ],
+    "description": "main_snippet"
+  }
+}

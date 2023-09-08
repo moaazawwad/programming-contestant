@@ -1,0 +1,24 @@
+{
+  "define_types_snippet": {
+    "prefix": "define_types",
+    "body": [
+      "typedef unsigned int ui;",
+      "typedef long long ll;",
+      "typedef long double ld;",
+      "",
+      "typedef pair<int, int> p32;",
+      "typedef pair<ll, ll> p64;",
+      "typedef pair<double, double> pdd;",
+      "typedef vector<p32> vp32;",
+      "typedef vector<p64> vp64;",
+      "",
+      "typedef vector<int> v32;",
+      "typedef vector<ll> v64;",
+      "typedef vector<v32> vv32;",
+      "typedef vector<v64> vv64;",
+      "typedef vector<vp64> vvp64;",
+      ""
+    ],
+    "description": "define_types_snippet"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "const_snippet": {
+    "prefix": "MagicNumbers",
+    "body": [
+      "#define INF 0x3f3f3f3f3f3f3f3f",
+      "#define N 2e5+10",
+      "#define MAX 500",
+      "#define MOD 998244353",
+      ""
+    ],
+    "description": "const_snippet"
+  }
+}
